@@ -5,7 +5,7 @@
 
 Срок выполнения задания:
 
-**до 3 апреля** ![Relative date](https://img.shields.io/date/1649019600)
+**до 2 апреля** ![Relative date](https://img.shields.io/date/1680469200)
 
 
 ## Задание
