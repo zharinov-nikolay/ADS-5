@@ -3,7 +3,6 @@
 #include <map>
 #include <math.h>
 #include "tstack.h"
-
 std::string infx2pstfx(std::string inf) {
 TStack <char, 100> stack1;
   std::string Nums = "0123456789";
